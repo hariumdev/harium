@@ -1,88 +1,80 @@
-<!-- Cabeçalho animado -->
-<div align="center" style="margin-bottom: 30px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=280&section=header&text=LXSZ&fontSize=70&fontColor=00cc44&animation=twinkling&fontAlignY=40&desc=Developer%20Profile&descAlignY=65&descSize=18" alt="LXSZ"/>
+<!-- Cabeçalho minimalista -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d0d,100:1a1a1a&height=120&section=header&text=LXSZ&fontSize=50&fontColor=00cc66&desc=Full-Stack%20Developer&descSize=16&descAlignY=75" alt="LXSZ"/>
 </div>
 
-<!-- Perfil resumido -->
-<div align="center" style="max-width: 900px; margin: auto; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  <table style="width: 100%; border-radius: 15px; background: #111; color: #00cc44; border: 2px solid #008833; padding: 20px;">
-    <tr>
-      <td style="width: 200px; text-align: center; padding: 15px;">
-        <img src="https://github.com/lxsz0.png" alt="Foto de Perfil" style="width: 150px; border-radius: 50%; border: 3px solid #00cc44; box-shadow: 0 0 15px #00cc44;"/>
-        <h2 style="margin-top: 15px; color: #00cc44;">LXSZ</h2>
-        <p style="font-weight: bold; font-size: 14px; color: #a0ffa0;">Full-Stack Developer</p>
-      </td>
-      <td style="padding-left: 25px; vertical-align: top;">
-        <h3 style="color: #66ff88;">Quem sou eu</h3>
-        <p style="color: #d0ffd0; font-size: 16px; line-height: 1.5;">
-          Olá! Sou um desenvolvedor especializado em Java e desenvolvimento web. Tenho mais de 1 ano e meio de experiência construindo sistemas que funcionam bem, são fáceis de manter e rápidos.
-        </p>
+---
 
-        <h3 style="color: #66ff88; margin-top: 25px;">O que eu faço</h3>
-        <ul style="color: #d0ffd0; font-size: 15px; line-height: 1.5;">
-          <li>Desenvolvo aplicações web do começo ao fim (backend + frontend)</li>
-          <li>Projetei bancos de dados eficientes para armazenar dados importantes</li>
-          <li>Crio APIs para conectar sistemas e facilitar integrações</li>
-          <li>Me importo muito com código limpo e desempenho rápido</li>
-        </ul>
+<!-- Sobre mim -->
+<div align="center">
+  <img src="https://github.com/lxsz0.png" alt="Foto de Perfil" width="140" style="border-radius: 50%; border: 2px solid #00cc66;"/>
 
-        <h3 style="color: #66ff88; margin-top: 25px;">Tecnologias que uso</h3>
-        <p>
-          <strong>Programação:</strong> Java, JavaScript, HTML, CSS<br>
-          <strong>Frameworks:</strong> Spring Boot, React, Node.js<br>
-          <strong>Bancos de dados:</strong> MySQL, PostgreSQL, MongoDB, Redis<br>
-          <strong>Ferramentas:</strong> Git, GitHub, Docker, VS Code, IntelliJ IDEA
-        </p>
-      </td>
-    </tr>
-  </table>
+  ### 👋 Olá, eu sou **LXSZ**
+  💻 Full-Stack Developer • Apaixonado por criar soluções escaláveis e bem estruturadas.  
+  🔧 Experiência em backend, frontend e banco de dados.  
 </div>
 
-<br>
+---
 
-<!-- Estatísticas GitHub e Visualizações -->
-<div align="center" style="max-width: 900px; margin: auto; display: flex; justify-content: space-around; gap: 30px;">
-  <div style="background: #111; padding: 15px; border-radius: 15px; border: 2px solid #008833;">
-    <h3 style="color: #00cc44; text-align: center;">Meu progresso no GitHub</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=lxsz0&show_icons=true&theme=dark&hide_border=true&bg_color=111111&title_color=00cc44&text_color=d0ffd0&icon_color=00cc44" alt="Estatísticas do GitHub" style="max-width: 100%;"/>
-  </div>
+## 🚀 Sobre mim
+- Crio **aplicações web completas** (frontend + backend)  
+- Estruturo **bancos de dados eficientes**  
+- Desenvolvo **APIs REST** para integração entre sistemas  
+- Prezo por **código limpo, escalabilidade e performance**
 
-  <div style="background: #111; padding: 15px; border-radius: 15px; border: 2px solid #008833; text-align: center;">
-    <h3 style="color: #00cc44;">Quantas pessoas visitaram meu perfil</h3>
-    <img src="https://komarev.com/ghpvc/?username=lxsz0&label=Visitantes&color=00cc44&style=flat-square" alt="Visualizações" />
-  </div>
+---
+
+## 🛠️ Tecnologias
+<div align="center">
+
+**Linguagens**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libs**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Banco de Dados**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Ferramentas**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+
 </div>
 
-<br>
+---
 
-<!-- Contato -->
-<div align="center" style="max-width: 600px; margin: auto; background: #111; border-radius: 15px; border: 2px solid #008833; padding: 25px;">
-  <h2 style="color: #00cc44; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Quer conversar?</h2>
-  <p style="color: #d0ffd0; font-size: 16px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-    Me encontre nas redes sociais ou envie uma mensagem!  
-  </p>
-  <div style="display: inline-flex; gap: 25px; align-items: center;">
-    <a href="https://www.linkedin.com/in/lxsz" target="_blank" style="text-decoration:none; transition: transform 0.2s ease;">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 8px;"/>
-    </a>
-    <a href="mailto:your.email@example.com" target="_blank" style="text-decoration:none; transition: transform 0.2s ease;">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="border-radius: 8px;"/>
-    </a>
-    <a href="https://discord.com/users/1375245244387561526" target="_blank" style="text-decoration:none; transition: transform 0.2s ease;">
-      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="border-radius: 8px;"/>
-    </a>
-  </div>
+## 📊 Estatísticas
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lxsz0&show_icons=true&theme=github_dark&hide_border=true&title_color=00cc66&icon_color=00cc66&text_color=cccccc&bg_color=0d0d0d" height="150" alt="GitHub Stats"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lxsz0&theme=github-dark&hide_border=true&ring=00cc66&currStreakLabel=00cc66&sideNums=cccccc&currStreakNum=ffffff&background=0d0d0d" height="150" alt="Streak Stats"/>
+
 </div>
 
-<style>
-  a:hover {
-    transform: scale(1.1);
-  }
-</style>
+---
 
-<br>
+## 📬 Contato
+<div align="center">
 
-<!-- Mensagem final -->
-<div align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #00cc44; margin-top: 50px;">
-  <p style="font-size: 14px;">Obrigado por visitar meu perfil! Vamos construir o futuro juntos 💻✨</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lxsz)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1375245244387561526)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>✨ Obrigado por visitar meu perfil ✨</sub>
 </div>
