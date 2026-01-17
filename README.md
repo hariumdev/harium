@@ -1,52 +1,43 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=80&section=header&text=HARIUM&fontSize=40&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Full-Stack%20Development&descSize=14&descAlignY=72" alt="Harium Header"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github.com/lxsz0.png" alt="Profile" width="100" style="border-radius: 2px; border: 1px solid #30363d;"/>
-
-  ## **Harium**
-  `Precision in Execution · Excellence in Architecture`
   
+  # HARIUM
+  `Software Engineer`
+  
+  <br/>
+
   <p align="center">
-    Especialista no desenvolvimento de sistemas robustos, <br/> focado em escalabilidade de backend e interfaces de alta performance.
+    Engenharia de sistemas com foco em arquitetura de alta disponibilidade <br/> e desenvolvimento de soluções escaláveis.
   </p>
-</div>
 
----
+  <br/>
 
-### 🛠 Tech Stack
+  ---
 
-<div align="center">
+  ### 🛠 Technical Expertise
 
-| **Backend** | **Frontend** | **DevOps & DB** |
-| :--- | :--- | :--- |
-| `Java / Spring Boot` | `React / Next.js` | `Docker / Kubernetes` |
-| `Node.js / Express` | `TypeScript` | `PostgreSQL / MySQL` |
-| `Python / FastAPI` | `Tailwind CSS` | `Git / CI/CD` |
+  **Systems & Logic** `Java` • `Spring Ecosystem` • `Node.js` • `Python` • `Go`
 
-</div>
+  **Data & Runtime** `PostgreSQL` • `Redis` • `Docker` • `Kubernetes` • `Cloud Infrastructure`
 
----
+  **Interfaces** `React` • `TypeScript` • `Next.js` • `Performance Optimization`
 
-### 📬 Contato
+  ---
 
-<div align="center">
+  ### 📬 Connectivity
+
   <a href="mailto:contato@harium.dev">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://discord.com/users/1375245244387561526">
-    <img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/harium">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Network-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</div>
 
-<br/>
+  <br/>
+  <br/>
 
-<div align="center">
-  <sub><i>"Simplicity is the ultimate sophistication."</i></sub>
+  <sub>*Building systems that last.*</sub>
+
 </div>
