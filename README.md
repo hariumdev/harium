@@ -1,43 +1,53 @@
 <div align="center">
-  
-  # HARIUM
-  `Software Engineer`
-  
-  <br/>
 
-  <p align="center">
-    Engenharia de sistemas com foco em arquitetura de alta disponibilidade <br/> e desenvolvimento de soluções escaláveis.
-  </p>
+# HARIUM  
+`Software Engineer`
 
-  <br/>
+<br/>
 
-  ---
+<p align="center">
+  Arquitetura de sistemas distribuídos • Alta disponibilidade • Escalabilidade extrema  
+</p>
 
-  ### 🛠 Technical Expertise
+<br/>
 
-  **Systems & Logic** `Java` • `Spring Ecosystem` • `Node.js` • `Python` • `Go`
+<img src="https://readme-typing-svg.herokuapp.com?color=0A0A0A&center=true&vCenter=true&width=500&lines=Designing+resilient+systems...;Scaling+without+limits...;Engineering+the+invisible..." />
 
-  **Data & Runtime** `PostgreSQL` • `Redis` • `Docker` • `Kubernetes` • `Cloud Infrastructure`
+<br/>
 
-  **Interfaces** `React` • `TypeScript` • `Next.js` • `Performance Optimization`
+---
 
-  ---
+### ⚙️ Core Stack
 
-  ### 📬 Connectivity
+`Java` `Spring` `Node.js` `Python` `Go`  
+`PostgreSQL` `Redis` `Docker` `Kubernetes`  
+`Cloud` `Microservices` `Distributed Systems`
 
-  <a href="mailto:contato@harium.dev">
-    <img src="https://img.shields.io/badge/Contact_Me-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/1375245244387561526">
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/harium">
-    <img src="https://img.shields.io/badge/Network-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+---
 
-  <br/>
-  <br/>
+### 🌑 Interface Layer
 
-  <sub>*Building systems that last.*</sub>
+`React` `TypeScript` `Next.js`  
+`Performance` `Optimization` `UX Precision`
+
+---
+
+### 📡 Reach
+
+<a href="mailto:contato@harium.dev">
+  <img src="https://img.shields.io/badge/contact-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://discord.com/users/1469075407092318250">
+  <img src="https://img.shields.io/badge/discord-0a0a0a?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/harium">
+  <img src="https://img.shields.io/badge/network-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<sub>“Systems don’t fail. People do.”</sub>
 
 </div>
